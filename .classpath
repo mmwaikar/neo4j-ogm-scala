@@ -1,0 +1,78 @@
+<classpath>
+  <classpathentry output="target\scala-2.11\classes" kind="src" path="src\main\scala-2.11"/>
+  <classpathentry output="target\scala-2.11\classes" kind="src" path="src\main\scala"/>
+  <classpathentry output="target\scala-2.11\classes" kind="src" path="src\main\java"/>
+  <classpathentry output="target\scala-2.11\test-classes" kind="src" path="src\test\scala-2.11"/>
+  <classpathentry output="target\scala-2.11\test-classes" kind="src" path="src\test\scala"/>
+  <classpathentry output="target\scala-2.11\test-classes" kind="src" path="src\test\java"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-ogm\jars\neo4j-ogm-1.1.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\bundles\jackson-databind-2.5.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\bundles\jackson-annotations-2.5.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\bundles\jackson-core-2.5.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.apache.httpcomponents\httpclient\jars\httpclient-4.3.6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.apache.httpcomponents\httpcore\jars\httpcore-4.3.3.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\commons-logging\commons-logging\jars\commons-logging-1.1.3.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-kernel\jars\neo4j-kernel-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-primitive-collections\jars\neo4j-primitive-collections-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-unsafe\jars\neo4j-unsafe-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-io\jars\neo4j-io-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-csv\jars\neo4j-csv-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-lucene-index\jars\neo4j-lucene-index-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.apache.lucene\lucene-core\jars\lucene-core-3.6.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-graph-algo\jars\neo4j-graph-algo-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-udc\jars\neo4j-udc-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-graph-matching\jars\neo4j-graph-matching-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-cypher\jars\neo4j-cypher-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-cypher-compiler-1.9\jars\neo4j-cypher-compiler-1.9-2.0.4.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-cypher-compiler-2.0\jars\neo4j-cypher-compiler-2.0-2.0.4.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-cypher-compiler-2.1\jars\neo4j-cypher-compiler-2.1-2.1.8.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-cypher-compiler-2.2\jars\neo4j-cypher-compiler-2.2-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.parboiled\parboiled-scala_2.10\jars\parboiled-scala_2.10-1.1.7.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.parboiled\parboiled-core\jars\parboiled-core-1.1.7.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\net.sf.opencsv\opencsv\jars\opencsv-2.3.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\com.googlecode.concurrentlinkedhashmap\concurrentlinkedhashmap-lru\jars\concurrentlinkedhashmap-lru-1.4.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-jmx\jars\neo4j-jmx-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-consistency-check\jars\neo4j-consistency-check-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j.app\neo4j-server\jars\neo4j-server-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\server-api\jars\server-api-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j.3rdparty.javax.ws.rs\jsr311-api\jars\jsr311-api-1.1.2.r612.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\commons-configuration\commons-configuration\jars\commons-configuration-1.10.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\commons-lang\commons-lang\jars\commons-lang-2.6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\commons-digester\commons-digester\jars\commons-digester-2.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\commons-beanutils\commons-beanutils\jars\commons-beanutils-1.8.3.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j.app\neo4j-browser\jars\neo4j-browser-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\ch.qos.logback\logback-classic\jars\logback-classic-1.1.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\ch.qos.logback\logback-core\jars\logback-core-1.1.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\ch.qos.logback\logback-access\jars\logback-access-1.1.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.codehaus.janino\janino\jars\janino-2.6.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.codehaus.janino\commons-compiler\jars\commons-compiler-2.6.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.eclipse.jetty\jetty-server\jars\jetty-server-9.2.4.v20141103.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\javax.servlet\javax.servlet-api\jars\javax.servlet-api-3.1.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.eclipse.jetty\jetty-http\jars\jetty-http-9.2.4.v20141103.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.eclipse.jetty\jetty-util\jars\jetty-util-9.2.4.v20141103.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.eclipse.jetty\jetty-io\jars\jetty-io-9.2.4.v20141103.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.eclipse.jetty\jetty-webapp\jars\jetty-webapp-9.2.4.v20141103.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.eclipse.jetty\jetty-xml\jars\jetty-xml-9.2.4.v20141103.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.eclipse.jetty\jetty-servlet\jars\jetty-servlet-9.2.4.v20141103.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.eclipse.jetty\jetty-security\jars\jetty-security-9.2.4.v20141103.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\com.sun.jersey\jersey-server\jars\jersey-server-1.18.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\com.sun.jersey\jersey-servlet\jars\jersey-servlet-1.18.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\commons-io\commons-io\jars\commons-io-2.4.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.codehaus.jackson\jackson-jaxrs\jars\jackson-jaxrs-1.9.13.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.codehaus.jackson\jackson-core-asl\jars\jackson-core-asl-1.9.13.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.codehaus.jackson\jackson-mapper-asl\jars\jackson-mapper-asl-1.9.13.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.rrd4j\rrd4j\jars\rrd4j-2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.mozilla\rhino\jars\rhino-1.7R4.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\bouncycastle\bcprov-jdk16\jars\bcprov-jdk16-140.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\com.sun.jersey.contribs\jersey-multipart\jars\jersey-multipart-1.18.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.jvnet.mimepull\mimepull\jars\mimepull-1.9.3.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.neo4j\neo4j-shell\jars\neo4j-shell-2.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.apache.servicemix.bundles\org.apache.servicemix.bundles.jline\bundles\org.apache.servicemix.bundles.jline-0.9.94_1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.4.jar"/>
+  <classpathentry kind="lib" path="C:\Users\manoj.waikar\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
