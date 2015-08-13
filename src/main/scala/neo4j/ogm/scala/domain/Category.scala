@@ -5,6 +5,7 @@ import org.neo4j.ogm.annotation.NodeEntity
 /**
  * @author manoj.waikar
  */
+@NodeEntity
 class Category extends Entity {
   var name: String = _
   
