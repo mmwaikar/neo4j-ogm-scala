@@ -9,7 +9,7 @@ import scala.beans.BeanProperty
 abstract class Entity {
   @GraphId
   @BeanProperty
-  var id: Long = _
+  var id: java.lang.Long = _
   
   override def equals(o: Any): Boolean = o match {
     case other: Entity => other.id.equals(this.id)

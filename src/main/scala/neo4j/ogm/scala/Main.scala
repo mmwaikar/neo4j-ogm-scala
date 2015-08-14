@@ -25,10 +25,10 @@ object Main extends App {
     session.save(turmeric)
     session.save(cumin)
     session.save(pairing)
-    tx.commit()
+//    tx.commit()
   } catch {
     case e: Exception => // tx.rollback()
   } finally {
-//    tx.commit()
+    tx.commit()
   }
 }
